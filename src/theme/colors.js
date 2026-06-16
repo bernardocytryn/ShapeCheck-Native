@@ -1,0 +1,18 @@
+export const colors = {
+  amarelo: "#ffcb3c",
+  amareloHover: "#f0be2c",
+  amareloDim: "rgba(255, 203, 60, 0.15)",
+  laranja: "#ff7b54",
+  vermelho: "#ff4d5b",
+  bg: "#141416",
+  card: "#1c1c1e",
+  card2: "#2c2c2e",
+  borda: "rgba(255, 255, 255, 0.08)",
+  texto: "#f2f2f2",
+  textoSuave: "#8e8e93",
+  verde: "#4caf50",
+  vermelhoSwipe: "#f44336",
+  azul: "#3b82f6",
+  inputBg: "#323537",
+  desabilitado: "#939496",
+};

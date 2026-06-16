@@ -1,0 +1,63 @@
+export const dicMusculos = {
+    "chest": "Peito",
+    "back": "Costas",
+    "shoulders": "Ombros",
+    "upper arms": "Braços",
+    "lower arms": "Antebraços",
+    "upper legs": "Coxas",
+    "lower legs": "Panturrilhas",
+    "waist": "Abdômen",
+    "cardio": "Cardio",
+    "neck": "Pescoço",
+    "rectus abdominis": "Abdômen",
+    "pectorals": "Peitorais",
+    "lats": "Dorsais",
+    "glutes": "Glúteos",
+    "hamstrings": "Posterior de Coxa",
+    "quads": "Quadríceps",
+    "calves": "Panturrilhas",
+    "triceps": "Tríceps",
+    "biceps": "Bíceps",
+    "delts": "Ombros (Deltoides)"
+};
+
+export const dicEquipamentos = {
+    "barbell": "Barra",
+    "dumbbell": "Halteres",
+    "cable": "Polia/Cabo",
+    "machine": "Máquina",
+    "body weight": "Peso Corporal",
+    "kettlebell": "Kettlebell",
+    "band": "Elástico",
+    "ez barbell": "Barra EZ",
+    "smith machine": "Máquina Smith"
+};
+
+export const dicPalavrasChave = {
+    "barbell": "Barra",
+    "dumbbell": "Haltere",
+    "cable": "Polia",
+    "bench press": "Supino",
+    "press": "Desenvolvimento",
+    "curl": "Rosca",
+    "extension": "Extensão",
+    "squat": "Agachamento",
+    "deadlift": "Levantamento Terra",
+    "row": "Remada",
+    "fly": "Crucifixo",
+    "pull-up": "Barra Fixa",
+    "push-up": "Flexão",
+    "lunge": "Afundo",
+    "incline": "Inclinado",
+    "decline": "Declinado",
+    "seated": "Sentado",
+    "standing": "em Pé",
+    "machine": "na Máquina",
+    "raise": "Elevação",
+    "crunch": "Abdominal",
+    "chest": "Peito",
+    "leg": "Perna",
+    "kickback": "Coice",
+    "pulldown": "Puxada",
+    "shrug": "Encolhimento"
+};
